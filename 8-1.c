@@ -6,8 +6,8 @@
 int main() {
 
 	int num;
-	int R;//�ݺ�Ƚ��
-	char S[20];//���ڿ�
+	int R;//¹Ýº¹È½¼ö
+	char S[20];//¹®ÀÚ¿­
 
 	scanf("%d", &num);
 
