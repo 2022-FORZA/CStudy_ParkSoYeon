@@ -8,9 +8,9 @@
 int main() {
 
 <<<<<<< HEAD
-	long long int A; //°íÁ¤ ºñ¿ë
-	long long int B; //°¡º¯ºñ¿ë
-	long long int C; //³ëÆ®ºÏ °¡°İ
+	long long int A; //ê³ ì • ë¹„ìš©
+	long long int B; //ê°€ë³€ë¹„ìš©
+	long long int C; //ë…¸íŠ¸ë¶ ê°€ê²©
 	long long int n=1;
 
 	scanf("%lld %lld %lld", &A, &B, &C);
